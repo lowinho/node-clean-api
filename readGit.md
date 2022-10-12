@@ -12,3 +12,6 @@ git config --global --edit
 	l = !git log --pretty=format:'%C(blue)%h%C(red)%d%C(white) %s - %C(cyan)%cn, %C(green)%cr'
 
 conventional commits = [https://www.conventionalcommits.org/en/v1.0.0/]
+
+Adiciona o commit atual no mesmo anterior sem alterar texto
+git commit --amend --no-edit
