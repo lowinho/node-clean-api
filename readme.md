@@ -10,3 +10,5 @@ git config --global --edit
 	s = !git status -s
 	c = !git add --all && git commit -m
 	l = !git log --pretty=format:'%C(blue)%h%C(red)%d%C(white) %s - %C(cyan)%cn, %C(green)%cr'
+
+conventional commits = [https://www.conventionalcommits.org/en/v1.0.0/]
