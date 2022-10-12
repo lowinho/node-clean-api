@@ -2,8 +2,8 @@
 git config --global core.editor code
 git config --global --edit
 [user]
-	email = lowinho@yahoo.com.br
-	name = César Lowe
+	email = "your email"
+	name = "your name"
 [core]
 	editor = code --wait
 [alias]
