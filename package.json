@@ -1,0 +1,12 @@
+{
+  "name": "clean-node-api",
+  "version": "1.0.0",
+  "description": "git config --global core.editor code\r git config --global --edit\r [user]\r \temail = lowinho@yahoo.com.br\r \tname = César Lowe\r [core]\r \teditor = code --wait\r [alias]\r \ts = !git status -s\r \tc = !git add --all && git commit -m\r \tl = !git log --pretty=format:'%C(blue)%h%C(red)%d%C(white) %s - %C(cyan)%cn, %C(green)%cr'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
