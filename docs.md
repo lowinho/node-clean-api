@@ -15,3 +15,6 @@ conventional commits = [https://www.conventionalcommits.org/en/v1.0.0/]
 
 Adiciona o commit atual no mesmo anterior sem alterar texto
 git commit --amend --no-edit
+
+# jest
+jest --clearCache
