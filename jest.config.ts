@@ -1,7 +1,7 @@
 export default {
   // clearMocks: true,
   roots: ['./src'],
-  collectCoverage: true,
+  collectCoverage: false,
   collectCoverageFrom: ['./src/**/*.ts'],
   coverageDirectory: 'coverage',
   coverageProvider: 'v8',
