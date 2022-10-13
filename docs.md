@@ -18,3 +18,6 @@ git commit --amend --no-edit
 
 # jest
 jest --clearCache
+
+# husky with lint-staged
+[https://valchan.com.br/lint-staged-husky/]
