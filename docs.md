@@ -20,4 +20,5 @@ git commit --amend --no-edit
 jest --clearCache
 
 # husky with lint-staged
+npx husky add .husky/pre-commit "npx lint-staged --verbose
 [https://valchan.com.br/lint-staged-husky/]
