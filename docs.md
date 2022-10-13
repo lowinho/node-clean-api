@@ -22,3 +22,6 @@ jest --clearCache
 # husky with lint-staged
 npx husky add .husky/pre-commit "npx lint-staged --verbose
 [https://valchan.com.br/lint-staged-husky/]
+
+# dicas
+colocar parênteses em volta das chaves de uma arrow function deixa que retorne um objeto sem precisar instanciar
